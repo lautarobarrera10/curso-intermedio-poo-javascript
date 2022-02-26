@@ -1,0 +1,20 @@
+{
+  "name": "curso-intermedio-poo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautarobarrera10/curso-intermedio-poo-javascript.git"
+  },
+  "keywords": [],
+  "author": "Lautaro Barrera <lautarobarrera12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lautarobarrera10/curso-intermedio-poo-javascript/issues"
+  },
+  "homepage": "https://github.com/lautarobarrera10/curso-intermedio-poo-javascript#readme"
+}
